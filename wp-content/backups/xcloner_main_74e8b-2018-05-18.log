@@ -1,0 +1,1 @@
+[2018-05-18 23:24:04] php_system.INFO: E_NOTICE: array (   'type' => 8,   'message' => 'Undefined index: HTTPS',   'file' => '/srv/disk2/2716219/www/cmsrunners.atwebpages.com/wp-content/plugins/secure-wordpress/res/inc/SwpaLiveTraffic.php',   'line' => 128, ) [] []

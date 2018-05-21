@@ -1,0 +1,358 @@
+<site>
+ <posts>
+  <post caption="Post" categories="" dateModified="04/16/2014 17:34:44" name="post" status="published" tags="" title="Post" titleInBrowser="Post">
+   <pageHead></pageHead>
+   <content>&lt;h1&gt;Heading 1&lt;/h1&gt;
+&lt;h2&gt;Heading 2&lt;/h2&gt;
+&lt;h3&gt;Heading 3&lt;/h3&gt;
+&lt;h4&gt;Heading 4&lt;/h4&gt;
+&lt;h5&gt;Heading 5&lt;/h5&gt;
+&lt;h6&gt;Heading 6&lt;/h6&gt;&lt;h6&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;h7&gt;Heading 7&lt;h7&gt;&lt;/h7&gt;&lt;/h7&gt;&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bold&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Italic&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Underlined&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+                &lt;/h6&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;h1&gt;Heading 1&lt;/h1&gt;
+&lt;h2&gt;Heading 2&lt;/h2&gt;
+&lt;h3&gt;Heading 3&lt;/h3&gt;
+&lt;h4&gt;Heading 4&lt;/h4&gt;
+&lt;h5&gt;Heading 5&lt;/h5&gt;
+&lt;h6&gt;Heading 6&lt;/h6&gt;&lt;h6&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;h7&gt;Heading 7&lt;h7&gt;&lt;/h7&gt;&lt;/h7&gt;&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bold&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Italic&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Underlined&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+                &lt;/h6&gt;</content>
+    </contents>
+   </layout>
+  </post>
+ </posts>
+ <pages customHeadHtml="">
+  <page author="" caption="Home" customHeadHtml="" dateModified="04/16/2014 18:58:20" description="" keywords="" metaTags="" name="home" path="/home" showInHmenu="True" showInVmenu="True" showTitle="False" title="New Page" titleInBrowser="New Page">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { color: #CFCFCF; background: #1486C3; padding: 10px;  }
+.art-content .art-postcontent-0 .layout-item-1 { color: #D4D4D4; background: #35BC7A; padding: 10px;  }
+.art-content .art-postcontent-0 .layout-item-2 { color: #262626; background: #FF9F00; padding: 10px;  }
+.art-content .art-postcontent-0 .layout-item-3 { color: #262626; background: #F86923; padding: 10px;  }
+.art-content .art-postcontent-0 .layout-item-4 { padding: 20px;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 25%" &gt;
+        &lt;p&gt;&lt;img style="float: left; margin-top: 0px; margin-right: 10px; margin-bottom: 20px; margin-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" width="64" height="64" alt="" class="art-lightbox" src="./images/User-Server-128.png"&gt;
+        &lt;/p&gt;&lt;p&gt;
+        &lt;/p&gt;&lt;h4&gt;Directory&lt;/h4&gt;
+        &lt;p&gt;&lt;span style="color: rgb(255, 255, 255);"&gt;Lorem ipsum dolor sit amet, consectetur .&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="text-align:center;"&gt;&lt;a href="#" class="art-button"&gt;More&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-1" style="width: 25%" &gt;
+        &lt;p&gt;&lt;img width="64" height="64" alt="" src="./images/User-Information-128.png" style="float: left; margin-right: 10px; margin-bottom: 20px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;"&gt;&lt;/p&gt;
+        &lt;h4&gt;Potfolio&lt;/h4&gt;
+        &lt;p&gt;&lt;span style="color: rgb(255, 255, 255);"&gt;Cras elit nisl, rhoncus nec iaculis rhoncus.&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="text-align:center;"&gt;&lt;a href="#" class="art-button"&gt;More&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 25%" &gt;
+        &lt;p&gt;&lt;img width="64" height="64" alt="" src="./images/Bar-Chart-128.png" style="float: left; margin-right: 10px; margin-bottom: 20px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;"&gt;&lt;/p&gt;
+        &lt;h4&gt;Reporting&lt;/h4&gt;
+        &lt;p&gt;&lt;span style="color: rgb(255, 255, 255);"&gt;Aenean sollicitudin arcu &amp;nbsp;pellentesque ac&amp;nbsp;iaculis.&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="text-align:center;"&gt;&lt;a href="#" class="art-button"&gt;More&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-3" style="width: 25%" &gt;
+        &lt;p&gt;&lt;img width="64" height="64" alt="" src="./images/Clock-128.png" style="float: left; margin-right: 10px; margin-bottom: 20px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;"&gt;&lt;/p&gt;
+        &lt;h4&gt;Scheduling&lt;/h4&gt;
+        &lt;p&gt;&lt;span style="color: rgb(255, 255, 255);"&gt;Etiam pharetra, tellus sit congue vulputate.&lt;/span&gt;&lt;/p&gt;
+        &lt;p style="text-align:center;"&gt;&lt;a href="#" class="art-button"&gt;More&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-4" style="width: 25%" &gt;
+        &lt;h1&gt;Latest News&lt;/h1&gt;
+        &lt;h3&gt;04/01/2011&lt;/h3&gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&amp;nbsp;Pellentesque ac felis tellus.&amp;nbsp;Donec ut hendrerit enim.&lt;/p&gt;
+        &lt;hr style="border:none;background-color:#dedede;color:#dedede;height:1px;"&gt;
+        &lt;h3&gt;03/17/2011&lt;/h3&gt;
+        &lt;p&gt;Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&lt;/p&gt;
+        &lt;hr style="border:none;background-color:#dedede;color:#dedede;height:1px;"&gt;
+        &lt;h3&gt;02/21/2011&lt;/h3&gt;
+        &lt;p&gt;Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus.&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-4" style="width: 50%" &gt;
+        &lt;h1&gt;Realizing the Potentials&lt;/h1&gt;
+        &lt;p style="text-align: justify;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh.&amp;nbsp;Cras elit nisl, rhoncus nec iaculis ultricies.Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu.&amp;nbsp;Duis placerat justo eu nunc interdum ultrices.&amp;nbsp;&lt;/p&gt;
+        &lt;p&gt;&lt;img width="449" height="218" alt="" src="./images/623114_98313527.jpg" style="margin-right: 12px; margin-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" class=""&gt;&lt;/p&gt;
+        &lt;p style="text-align: justify;"&gt;Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu.&amp;nbsp;Duis placerat justo eu nunc interdum ultrices. Phasellus elit dolor, porttitor id consectetur sit amet, posuere id magna.&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-4" style="width: 25%" &gt;
+        &lt;h1&gt;Highlights&lt;/h1&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
+        &lt;li&gt;Consectetur adipiscing elit&lt;/li&gt;
+        &lt;li&gt;Etiam pharetra tellus sit&lt;/li&gt;
+        &lt;li&gt;Amet congue vulputate&lt;/li&gt;
+        &lt;li&gt;Nisi erat iaculis cras elit nisl&lt;/li&gt;
+        &lt;li&gt;Rhoncus nec iaculis ultricies&lt;/li&gt;
+        &lt;li&gt;Pellentesque ac felis tellus&lt;/li&gt;
+        &lt;li&gt;Aenean sollicitudin&lt;/li&gt;
+        &lt;li&gt;Arcu duis placerat justo&lt;/li&gt;
+        &lt;li&gt;Interdum ultrices phasellus&lt;/li&gt;
+        &lt;li&gt;Elit dolor consectetur&lt;/li&gt;
+        &lt;li&gt;Sit amet, posuere id magna&lt;/li&gt;
+        &lt;li&gt;Duis placerat justo eu nunc&lt;/li&gt;
+        &lt;li&gt;Interdum ultrices phasellus&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 25%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-1" style="width: 25%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-2" style="width: 25%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-3" style="width: 25%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-4" style="width: 25%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-4" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-4" style="width: 25%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;&lt;img style="float: left; margin-top: 0px; margin-right: 10px; margin-bottom: 20px; margin-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" width="64" height="64" alt="" class="art-lightbox" src="User-Server-128.png"&gt;
+&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;h4&gt;Directory&lt;/h4&gt;
+&lt;p&gt;&lt;span style="color: rgb(255, 255, 255);"&gt;Lorem ipsum dolor sit amet, consectetur .&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:center;"&gt;&lt;a href="#" class="art-button"&gt;More&lt;/a&gt;&lt;/p&gt;</content>
+     <content>&lt;p&gt;&lt;img width="64" height="64" alt="" src="User-Information-128.png" style="float: left; margin-right: 10px; margin-bottom: 20px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;"&gt;&lt;/p&gt;
+&lt;h4&gt;Potfolio&lt;/h4&gt;
+&lt;p&gt;&lt;span style="color: rgb(255, 255, 255);"&gt;Cras elit nisl, rhoncus nec iaculis rhoncus.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:center;"&gt;&lt;a href="#" class="art-button"&gt;More&lt;/a&gt;&lt;/p&gt;</content>
+     <content>&lt;p&gt;&lt;img width="64" height="64" alt="" src="Bar-Chart-128.png" style="float: left; margin-right: 10px; margin-bottom: 20px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;"&gt;&lt;/p&gt;
+&lt;h4&gt;Reporting&lt;/h4&gt;
+&lt;p&gt;&lt;span style="color: rgb(255, 255, 255);"&gt;Aenean sollicitudin arcu &amp;nbsp;pellentesque ac&amp;nbsp;iaculis.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:center;"&gt;&lt;a href="#" class="art-button"&gt;More&lt;/a&gt;&lt;/p&gt;</content>
+     <content>&lt;p&gt;&lt;img width="64" height="64" alt="" src="Clock-128.png" style="float: left; margin-right: 10px; margin-bottom: 20px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;"&gt;&lt;/p&gt;
+&lt;h4&gt;Scheduling&lt;/h4&gt;
+&lt;p&gt;&lt;span style="color: rgb(255, 255, 255);"&gt;Etiam pharetra, tellus sit congue vulputate.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align:center;"&gt;&lt;a href="#" class="art-button"&gt;More&lt;/a&gt;&lt;/p&gt;</content>
+     <content>&lt;h1&gt;Latest News&lt;/h1&gt;
+&lt;h3&gt;04/01/2011&lt;/h3&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&amp;nbsp;Pellentesque ac felis tellus.&amp;nbsp;Donec ut hendrerit enim.&lt;/p&gt;
+&lt;hr style="border:none;background-color:#dedede;color:#dedede;height:1px;"&gt;
+&lt;h3&gt;03/17/2011&lt;/h3&gt;
+&lt;p&gt;Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.&lt;/p&gt;
+&lt;hr style="border:none;background-color:#dedede;color:#dedede;height:1px;"&gt;
+&lt;h3&gt;02/21/2011&lt;/h3&gt;
+&lt;p&gt;Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus.&lt;/p&gt;</content>
+     <content>&lt;h1&gt;Realizing the Potentials&lt;/h1&gt;
+&lt;p style="text-align: justify;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh.&amp;nbsp;Cras elit nisl, rhoncus nec iaculis ultricies.Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu.&amp;nbsp;Duis placerat justo eu nunc interdum ultrices.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img width="449" height="218" alt="" src="623114_98313527.jpg" style="margin-right: 12px; margin-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" class=""&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu.&amp;nbsp;Duis placerat justo eu nunc interdum ultrices. Phasellus elit dolor, porttitor id consectetur sit amet, posuere id magna.&lt;/p&gt;</content>
+     <content>&lt;h1&gt;Highlights&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
+&lt;li&gt;Consectetur adipiscing elit&lt;/li&gt;
+&lt;li&gt;Etiam pharetra tellus sit&lt;/li&gt;
+&lt;li&gt;Amet congue vulputate&lt;/li&gt;
+&lt;li&gt;Nisi erat iaculis cras elit nisl&lt;/li&gt;
+&lt;li&gt;Rhoncus nec iaculis ultricies&lt;/li&gt;
+&lt;li&gt;Pellentesque ac felis tellus&lt;/li&gt;
+&lt;li&gt;Aenean sollicitudin&lt;/li&gt;
+&lt;li&gt;Arcu duis placerat justo&lt;/li&gt;
+&lt;li&gt;Interdum ultrices phasellus&lt;/li&gt;
+&lt;li&gt;Elit dolor consectetur&lt;/li&gt;
+&lt;li&gt;Sit amet, posuere id magna&lt;/li&gt;
+&lt;li&gt;Duis placerat justo eu nunc&lt;/li&gt;
+&lt;li&gt;Interdum ultrices phasellus&lt;/li&gt;
+&lt;/ul&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Contact Us" customHeadHtml="" dateModified="09/10/2012 17:16:42" description="" keywords="" metaTags="" name="contact-us" path="/contact-us" showInHmenu="True" showInVmenu="True" showTitle="True" title="Contact Us" titleInBrowser="Contact Us">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding-top: 0px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices.&lt;/p&gt;
+        
+        &lt;h3&gt;Our Address&lt;/h3&gt;
+        
+        &lt;p&gt;586 Main Ave, Building 42&lt;br /&gt;
+        Main City, Country 12345-6789&lt;/p&gt;
+        
+        &lt;p&gt;T: (555) 123 - 4567&lt;br /&gt;
+        F: (555) 523 - 4567&lt;/p&gt;
+        
+        &lt;p&gt;W:&lt;a href="#"&gt;http://www.domain.com&lt;/a&gt;&lt;br /&gt;
+        E: &lt;a href="#"&gt;myemail@domain.com&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 100%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pharetra, tellus sit amet congue vulputate, nisi erat iaculis nibh, vitae feugiat sapien ante eget mauris.Cras elit nisl, rhoncus nec iaculis ultricies, feugiat eget sapien. Pellentesque ac felis tellus. Aenean sollicitudin imperdiet arcu, vitae dignissim est posuere id. Duis placerat justo eu nunc interdum ultrices.&lt;/p&gt;
+
+&lt;h3&gt;Our Address&lt;/h3&gt;
+
+&lt;p&gt;586 Main Ave, Building 42&lt;br /&gt;
+Main City, Country 12345-6789&lt;/p&gt;
+
+&lt;p&gt;T: (555) 123 - 4567&lt;br /&gt;
+F: (555) 523 - 4567&lt;/p&gt;
+
+&lt;p&gt;W:&lt;a href="#"&gt;http://www.domain.com&lt;/a&gt;&lt;br /&gt;
+E: &lt;a href="#"&gt;myemail@domain.com&lt;/a&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="1-Column" customHeadHtml="" dateModified="04/16/2014 17:24:30" description="" keywords="" metaTags="" name="1-column" path="/1-column" showInHmenu="False" showInVmenu="True" showTitle="True" title="1-Column Page" titleInBrowser="1-Column Page">
+   <pageHead></pageHead>
+   <content>&lt;p style="text-align: justify;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas placerat posuere sapien sit amet dictum. Donec ultricies nisi at ante semper, eget lobortis quam lobortis. Donec adipiscing suscipit lobortis. Nam viverra mattis urna, quis suscipit felis rhoncus at. Nunc eleifend pharetra sagittis. Proin scelerisque ultricies felis eget tristique. Duis a eros non libero malesuada faucibus id sit amet eros. Donec dictum placerat ullamcorper. Phasellus odio diam, facilisis et augue vel, pulvinar semper justo. Etiam iaculis sed lorem non pellentesque. Morbi fermentum ultrices elit sed dapibus.&lt;br&gt;&lt;/p&gt;</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content>&lt;p style="text-align: justify;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas placerat posuere sapien sit amet dictum. Donec ultricies nisi at ante semper, eget lobortis quam lobortis. Donec adipiscing suscipit lobortis. Nam viverra mattis urna, quis suscipit felis rhoncus at. Nunc eleifend pharetra sagittis. Proin scelerisque ultricies felis eget tristique. Duis a eros non libero malesuada faucibus id sit amet eros. Donec dictum placerat ullamcorper. Phasellus odio diam, facilisis et augue vel, pulvinar semper justo. Etiam iaculis sed lorem non pellentesque. Morbi fermentum ultrices elit sed dapibus.&lt;br&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="Blog Page" customHeadHtml="" dateModified="01/01/0001 00:00:00" description="" keywords="" metaTags="" name="blog-page" path="/blog-page" posts_page="true" showInHmenu="False" showInVmenu="True" showTitle="True" title="Blog Page" titleInBrowser="Blog Page">
+   <pageHead></pageHead>
+   <content>&lt;article class="art-post art-article"&gt;
+                                &lt;div class="art-postmetadataheader"&gt;
+                                        &lt;h2 class="art-postheader"&gt;&lt;span class="art-postheadericon"&gt;&lt;a href="#"&gt;Post&lt;/a&gt;
+                                        &lt;/span&gt;&lt;/h2&gt;
+                                    &lt;/div&gt;
+                                                &lt;div class="art-postheadericons art-metadata-icons"&gt;
+                    &lt;span class="art-postdateicon"&gt;&lt;/span&gt;
+                     | &lt;span class="art-postauthoricon"&gt; &lt;a href="#" title="Posts by Admin"&gt;Admin&lt;/a&gt;&lt;/span&gt;
+                                    &lt;/div&gt;
+                &lt;div class="art-postcontent art-postcontent-0 clearfix" &gt;
+&lt;h1&gt;Heading 1&lt;/h1&gt;
+&lt;h2&gt;Heading 2&lt;/h2&gt;
+&lt;h3&gt;Heading 3&lt;/h3&gt;
+&lt;h4&gt;Heading 4&lt;/h4&gt;
+&lt;h5&gt;Heading 5&lt;/h5&gt;
+&lt;h6&gt;Heading 6&lt;/h6&gt;&lt;h6&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;h7&gt;Heading 7&lt;h7&gt;&lt;/h7&gt;&lt;/h7&gt;&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Bold&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Italic&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Underlined&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+                &lt;/h6&gt;
+                &lt;/div&gt;
+
+&lt;/article&gt;
+</content>
+   <layout>
+    <struct>{content}</struct>
+    <contents>
+     <content></content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="2-Columns Page" customHeadHtml="" dateModified="04/16/2014 17:28:27" description="" keywords="" metaTags="" name="2-columns-page" path="/2-columns-page" showInHmenu="False" showInVmenu="True" showTitle="True" title="2-Columns Page" titleInBrowser="2-Columns Page">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p style="text-align: justify;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas placerat posuere sapien sit amet dictum. Donec ultricies nisi at ante semper, eget lobortis quam lobortis. Donec adipiscing suscipit lobortis. Nam viverra mattis urna, quis suscipit felis rhoncus at. Nunc eleifend pharetra sagittis. Proin scelerisque ultricies felis eget tristique. Duis a eros non libero malesuada faucibus id sit amet eros. Donec dictum placerat ullamcorper. Phasellus odio diam, facilisis et augue vel, pulvinar semper justo. Etiam iaculis sed lorem non pellentesque. Morbi fermentum ultrices elit sed dapibus.&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        &lt;p style="text-align: justify;"&gt;Curabitur imperdiet tortor nec imperdiet lobortis. In diam est, vestibulum ut adipiscing ut, consequat condimentum mauris. Sed ac lectus purus. Pellentesque ac ornare enim. Suspendisse potenti. Donec non elit sit amet quam blandit placerat. Fusce accumsan, dolor non faucibus commodo, elit risus blandit elit, sit amet dictum eros mauris at leo. Phasellus pharetra urna id risus tincidunt, et aliquet lorem egestas. Quisque porta sit amet metus eu scelerisque. Fusce libero quam, consectetur in auctor condimentum, aliquet sed tortor.&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 50%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p style="text-align: justify;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas placerat posuere sapien sit amet dictum. Donec ultricies nisi at ante semper, eget lobortis quam lobortis. Donec adipiscing suscipit lobortis. Nam viverra mattis urna, quis suscipit felis rhoncus at. Nunc eleifend pharetra sagittis. Proin scelerisque ultricies felis eget tristique. Duis a eros non libero malesuada faucibus id sit amet eros. Donec dictum placerat ullamcorper. Phasellus odio diam, facilisis et augue vel, pulvinar semper justo. Etiam iaculis sed lorem non pellentesque. Morbi fermentum ultrices elit sed dapibus.&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;p style="text-align: justify;"&gt;Curabitur imperdiet tortor nec imperdiet lobortis. In diam est, vestibulum ut adipiscing ut, consequat condimentum mauris. Sed ac lectus purus. Pellentesque ac ornare enim. Suspendisse potenti. Donec non elit sit amet quam blandit placerat. Fusce accumsan, dolor non faucibus commodo, elit risus blandit elit, sit amet dictum eros mauris at leo. Phasellus pharetra urna id risus tincidunt, et aliquet lorem egestas. Quisque porta sit amet metus eu scelerisque. Fusce libero quam, consectetur in auctor condimentum, aliquet sed tortor.&lt;br&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+  <page author="" caption="3-Columns Page" customHeadHtml="" dateModified="04/16/2014 17:28:09" description="" keywords="" metaTags="" name="3-columns-page" path="/3-columns-page" showInHmenu="False" showInVmenu="True" showTitle="True" title="3-Columns" titleInBrowser="3-Columns">
+   <pageHead>&lt;style&gt;.art-content .art-postcontent-0 .layout-item-0 { padding-right: 10px;padding-left: 10px;  }
+.ie7 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+.ie6 .art-post .art-layout-cell {border:none !important; padding:0 !important; }
+
+&lt;/style&gt;</pageHead>
+   <content>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 33%" &gt;
+        &lt;p style="text-align: justify;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas placerat posuere sapien sit amet dictum. Donec ultricies nisi at ante semper, eget lobortis quam lobortis. Donec adipiscing suscipit lobortis. Nam viverra mattis urna, quis suscipit felis rhoncus at. Nunc eleifend pharetra sagittis. Proin scelerisque ultricies felis eget tristique. Duis a eros non libero malesuada faucibus id sit amet eros. Donec dictum placerat ullamcorper. Phasellus odio diam, facilisis et augue vel, pulvinar semper justo. Etiam iaculis sed lorem non pellentesque. Morbi fermentum ultrices elit sed dapibus.&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 34%" &gt;
+        &lt;p style="text-align: justify;"&gt;Curabitur imperdiet tortor nec imperdiet lobortis. In diam est, vestibulum ut adipiscing ut, consequat condimentum mauris. Sed ac lectus purus. Pellentesque ac ornare enim. Suspendisse potenti. Donec non elit sit amet quam blandit placerat. Fusce accumsan, dolor non faucibus commodo, elit risus blandit elit, sit amet dictum eros mauris at leo. Phasellus pharetra urna id risus tincidunt, et aliquet lorem egestas. Quisque porta sit amet metus eu scelerisque. Fusce libero quam, consectetur in auctor condimentum, aliquet sed tortor.&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 33%" &gt;
+        &lt;p style="text-align: justify;"&gt;Duis nulla est, elementum et elit ac, fringilla aliquet velit. Mauris et est id massa porttitor egestas sit amet in lorem. Sed quis velit vel est luctus iaculis ornare in dolor. Donec ut sollicitudin odio. Aenean facilisis vulputate tempus. Vivamus hendrerit nibh nulla, quis lobortis ligula aliquet sit amet. Phasellus ut felis sit amet nibh pretium porttitor. Etiam eros est, pretium et libero ut, porttitor pulvinar nisi. Mauris ut magna quis neque mollis placerat ac vitae risus. Donec lacinia nulla nec augue ornare scelerisque. Suspendisse rutrum ut justo vel auctor. Nunc at ultricies purus, et sollicitudin quam.&lt;br&gt;&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+   <layout>
+    <struct>&lt;div class="art-content-layout"&gt;
+    &lt;div class="art-content-layout-row"&gt;
+    &lt;div class="art-layout-cell layout-item-0" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 34%" &gt;
+        {content}
+    &lt;/div&gt;&lt;div class="art-layout-cell layout-item-0" style="width: 33%" &gt;
+        {content}
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</struct>
+    <contents>
+     <content>&lt;p style="text-align: justify;"&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas placerat posuere sapien sit amet dictum. Donec ultricies nisi at ante semper, eget lobortis quam lobortis. Donec adipiscing suscipit lobortis. Nam viverra mattis urna, quis suscipit felis rhoncus at. Nunc eleifend pharetra sagittis. Proin scelerisque ultricies felis eget tristique. Duis a eros non libero malesuada faucibus id sit amet eros. Donec dictum placerat ullamcorper. Phasellus odio diam, facilisis et augue vel, pulvinar semper justo. Etiam iaculis sed lorem non pellentesque. Morbi fermentum ultrices elit sed dapibus.&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;p style="text-align: justify;"&gt;Curabitur imperdiet tortor nec imperdiet lobortis. In diam est, vestibulum ut adipiscing ut, consequat condimentum mauris. Sed ac lectus purus. Pellentesque ac ornare enim. Suspendisse potenti. Donec non elit sit amet quam blandit placerat. Fusce accumsan, dolor non faucibus commodo, elit risus blandit elit, sit amet dictum eros mauris at leo. Phasellus pharetra urna id risus tincidunt, et aliquet lorem egestas. Quisque porta sit amet metus eu scelerisque. Fusce libero quam, consectetur in auctor condimentum, aliquet sed tortor.&lt;br&gt;&lt;/p&gt;</content>
+     <content>&lt;p style="text-align: justify;"&gt;Duis nulla est, elementum et elit ac, fringilla aliquet velit. Mauris et est id massa porttitor egestas sit amet in lorem. Sed quis velit vel est luctus iaculis ornare in dolor. Donec ut sollicitudin odio. Aenean facilisis vulputate tempus. Vivamus hendrerit nibh nulla, quis lobortis ligula aliquet sit amet. Phasellus ut felis sit amet nibh pretium porttitor. Etiam eros est, pretium et libero ut, porttitor pulvinar nisi. Mauris ut magna quis neque mollis placerat ac vitae risus. Donec lacinia nulla nec augue ornare scelerisque. Suspendisse rutrum ut justo vel auctor. Nunc at ultricies purus, et sollicitudin quam.&lt;br&gt;&lt;/p&gt;</content>
+    </contents>
+   </layout>
+  </page>
+ </pages>
+ <sidebars>
+  <sidebar caption="" name="content-before" />
+  <sidebar caption="" name="content-after" />
+ </sidebars>
+ <collages />
+</site>
